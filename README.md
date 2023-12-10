@@ -1,2 +1,10 @@
-# CFG-object-recog-app
-CFG Challenge 2023 object recognition application
+# Code First Girls object recognition challenge
+
+Goal:
+
+Requirements:
+
+Setup:
+
+How to run this project:
+
