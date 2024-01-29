@@ -1,4 +1,4 @@
-# Code First Girls object recognition challenge
+# Code First Girls X Turing Innovation Catalyst object recognition challenge
 
 ## GOAL
 
@@ -10,3 +10,6 @@ For Letter M and Letter T, the source images come from [Kaggle EMNIST](https://w
 
 ## ML Packages
 - Keras, TensorFlow, Pillow/PIL (Python Imaging Library), Sklearn, Streamlit.
+
+## Achievement
+This project was selected as one of the 3 finalists for the challenge. See here for [project presentation](https://www.youtube.com/watch?v=JET-Ejw80xw).
